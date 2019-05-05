@@ -1,0 +1,22 @@
+{
+  "name": "@ntbl/pp",
+  "version": "1.0.0",
+  "description": "socket.io 的封装类。",
+  "main": "dist/pp.cjs.js",
+  "module": "dist/pp.es.js",
+  "author": {
+    "name": "夜是美"
+  },
+  "keywords": [
+    "socket",
+    "websocket"
+  ],
+  "bugs": {
+    "url": "https://github.com/yeshimei/pp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:yeshimei/pp.git"
+  },
+  "license": "MIT"
+}
